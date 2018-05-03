@@ -101,7 +101,7 @@
       <li>uitzicht op tuin</li>
     </ul>
 
-    <p class="mb-5">prijs:</p>
+    <p class="mb-5">Prijs:</p>
     <ul>
       <li>220 € / dagdeel of </li>
       <li>400 € / volledige dag</li>
@@ -109,7 +109,7 @@
     </ul>
 
     <p class="mb-5">Bel-etage en eerste verdiep samen:</p>
-    <p class="mb-5">prijs:</p>
+    <p class="mb-5">Prijs:</p>
     <ul>
       <li>360 € / dagdeel of </li>
       <li>695 € / volledige dag</li>
@@ -143,14 +143,14 @@
       <li>er is geen lift aanwezig</li>
     </ul>
 
-    <p class="mb-5">prijs:</p>
+    <p class="mb-5">Prijs:</p>
     <ul>
       <li>180 € / dagdeel of </li>
       <li>340 € / volledige dag</li>
     </ul>
 
     <p class="mb-5">Bel-etage en eerste verdiep samen:</p>
-    <p class="mb-5">prijs:</p>
+    <p class="mb-5">Prijs:</p>
     <ul>
       <li>360 € / dagdeel of </li>
       <li>695 € / volledige dag</li>
@@ -344,17 +344,442 @@
 
 
 <div id="suites" class="content">
-  <div class="content__row">
 
+  <center>
+    <div class="subnav">
+        <a href="#sfeer">Sfeer</a>
+        <a href="#suites-baron">Suites</a>
+        <a href="#omgeving">Omgeving</a>
+        <a href="#arrangementen">Arrangementen</a>
+        <a href="#geschiedenis-suites">Geschiedenis</a>
+        <a href="#bereikbaarheid-suites">Bereikbaarheid</a>
+      </div>    
+  </center>
+
+  <div class="content__row">
     <div class="content__col">
-        <div class="content__txt">
-          <h3>Suites</h3>
-          <p>Binnenkort beschikbaar.</p>
+      <div class="content__txt">
+      <p>Bent U toe aan <b>rust, schoonheid en authenticiteit</b>? Reserveer dan zonder aarzelen uw verblijf bij <b>Baron Osy</b> en geniet in stijl. Niet alleen de uitzonderlijke architectuur van de buurt, maar ook de elegante <b>‘fin-de-siècle’</b> uitstraling van het pand, verlenen het huis een gevoel van rust. 
+Vertoef in een omgeving die geschiedenis ademt.</p>
+
+<p>Verkent u graag het bruisende stadsleven om dan ‘thuis’ te komen? Eenmaal voorbij de imposante hal, komt u tot rust in onze binnentuin.</p>
+
+<p>Xenia Mesuere runt persoonlijk het hotel. Als gastvrouw biedt ze met veel liefde een opmerkelijke kwaliteit en service aan haar gasten, die zij steeds <b>persoonlijk welkom</b> heet, met een hartelijke ontvangst en persoonlijke aandacht voor ieders wensen.</p>
+
+<p>Na een zalige nachtrust, verwennen we u in een elegant- en origineel kader, met een heerlijk- en uitgebreid ontbijt met bediening. Mits meerprijs: keuze aan verschillende ontbijtformules.</p>
+      
+      <div class="content__hide">
+      <p class="mb-5">Overnacht met modern comfort in een unieke omgeving met historisch kader:</p>
+
+      <ul>
+          <li>kingsize bed</li>
+          <li>badkamer met bad of douche, dubbele lavabo</li>
+          <li>gratis wifi</li>
+          <li>bureau-hoek, zithoek</li>
+          <li>standaard ontbijt met bediening inbegrepen</li>
+          <li>prijs voor 1-persoonsgebruik op aanvraag</li>
+      </ul>
+
+      <p>Inchecken vanaf 14u00<br>
+Uitchecken vòòr 11u00</p>
+ 
+<p>Per kamer werd er gekozen voor een individuele aankleding, aangepast volgens de sfeer en de ziel die elk vertrek uitstraalt. Elke kamer is dan ook verschillend maar biedt wel steeds alle uitrusting en comfort voor de ervaren reiziger.</p>
+      
+    </div>
+      <a href="#" class="button__more" data-show="Meer info" data-hide="Minder info">Meer info</a>
       </div>
     </div>
-
+    <div class="content__col">
+      <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div>
+    </div>
     <div class="content__clear"></div>
-  </div><div class="content__row" id="bereikbaarheid">
+</div>
+
+
+
+<div class="content__row" id="sfeer">
+  <div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+ <div class="content__col">
+    <div class="content__txt">
+     <h3>Sfeer</h3>
+
+    <p>Baron Osy staat internationaal bekend als één van de charmantste verblijven in Antwerpen.</p>
+
+    </div>
+  </div>
+  <div class="content__clear"></div>
+</div>
+
+
+
+<div class="content__row" id="suites-baron">
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>SUITE Barones della Faille</h3>
+
+    <p>Is de <b>grootste</b> van onze kamers en biedt uitzicht op de rustige tuin: met zijn <b>eigen terras</b>, een oase van rust en stilte. De suite is gelegen op de <b>eerste verdieping</b>.</p>
+
+     <ul>
+      <li>oppervlakte: 30m²</li>
+      <li>kingsize bed</li>
+      <li>afzonderlijk toilet</li>
+      <li>zithoek</li>
+      <li>bureau</li>
+      <li>privé zongericht terras van 19m²</li>
+    </ul>
+
+    <p class="mb-5">De badkamer is voorzien van een:</p>
+    <ul>
+      <li>bad- &amp; douche combinatie</li>
+      <li>dubbele lavabo</li>
+      <li>haardroger, scheerspiegel en toiletartikelen</li>
+    </ul>
+
+    <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>165 € / nacht</li>
+    </ul>
+
+     <div class="content__hide">
+        <p><b>Data wijzigen</b> zonder kosten is mogelijk tot 9 dagen vóór de datum van de reservering.</p> 
+
+        <p>Een <b>annulering</b> is mogelijk tot 9 dagen vóór de datum van de reservering. In dit geval zijn de annuleringskosten 20% van het totale bedrag van de reservering. Na die 9 dagen wordt het totale bedrag aangerekend voor een annulering.</p>
+            
+        <p><b>Baron Osy</b> is gehuisvest in een authentiek herenhuis, waardoor geen lift, dus helaas niet geschikt voor personen met beperkte mobiliteit.</p>
+            
+     </div>
+     <a href="#" class="button__more" data-show="Voorwaarden" data-hide="Verberg voorwaarden">Voorwaarden</a>
+    </div>
+  </div><div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+
+<div class="content__row">
+<div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>SUITE Aurum &amp; Caerulum</h3>
+
+    <p>Het interieur is een geslaagd huwelijk van <b>Glamour-Savage</b> met een <b>trendy flair</b>. Deze ruime kamer ligt op de tweede verdieping en heeft eveneens zicht op de tuin.</p>
+
+     <ul>
+      <li>oppervlakte: 27m²</li>
+      <li>kingsize bed</li>
+      <li>afzonderlijk toilet</li>
+      <li>zithoek</li>
+      <li>bureau</li>
+    </ul>
+
+    <p class="mb-5">De badkamer is voorzien van een:</p>
+    <ul>
+      <li>inloopdouche</li>
+      <li>dubbele lavabo</li>
+      <li>haardroger, scheerspiegel en toiletartikelen</li>
+    </ul>
+
+    <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>148 € / nacht</li>
+    </ul>
+
+     <div class="content__hide">
+        <p><b>Data wijzigen</b> zonder kosten is mogelijk tot 9 dagen vóór de datum van de reservering.</p> 
+
+        <p>Een <b>annulering</b> is mogelijk tot 9 dagen vóór de datum van de reservering. In dit geval zijn de annuleringskosten 20% van het totale bedrag van de reservering. Na die 9 dagen wordt het totale bedrag aangerekend voor een annulering.</p>
+            
+        <p><b>Baron Osy</b> is gehuisvest in een authentiek herenhuis, waardoor geen lift, dus helaas niet geschikt voor personen met beperkte mobiliteit.</p>
+            
+     </div>
+     <a href="#" class="button__more" data-show="Voorwaarden" data-hide="Verberg voorwaarden">Voorwaarden</a>
+    </div>
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+
+
+<div class="content__row">
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>SUITE Exootic</h3>
+
+    <p>Het is gebaseerd op the <b>Oriental Express</b>, gecombineerd met moderne voorzieningen. Een <b>exotische cocon</b> met het oog op een ontspannen verblijf. Gelegen op de tweede verdieping met een eigen balkon en een <b>panoramisch uitzicht</b> op de Cogels Osylei.</p>
+
+     <ul>
+      <li>oppervlakte: 27m²</li>
+      <li>kingsize bed</li>
+      <li>zithoek</li>
+      <li>bureau</li>
+    </ul>
+
+    <p class="mb-5">De badkamer is voorzien van een:</p>
+    <ul>
+      <li>bad- &amp; douche combinatie</li>
+      <li>toilet</li>
+      <li>lavabo</li>
+      <li>haardroger, scheerspiegel en toiletartikelen</li>
+    </ul>
+
+    <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>153 € / nacht</li>
+    </ul>
+
+     <div class="content__hide">
+        <p><b>Data wijzigen</b> zonder kosten is mogelijk tot 9 dagen vóór de datum van de reservering.</p> 
+
+        <p>Een <b>annulering</b> is mogelijk tot 9 dagen vóór de datum van de reservering. In dit geval zijn de annuleringskosten 20% van het totale bedrag van de reservering. Na die 9 dagen wordt het totale bedrag aangerekend voor een annulering.</p>
+            
+        <p><b>Baron Osy</b> is gehuisvest in een authentiek herenhuis, waardoor geen lift, dus helaas niet geschikt voor personen met beperkte mobiliteit.</p>
+            
+     </div>
+     <a href="#" class="button__more" data-show="Voorwaarden" data-hide="Verberg voorwaarden">Voorwaarden</a>
+    </div>
+  </div><div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+<div class="content__row" id="omgeving">
+<div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>Omgeving</h3>
+
+    <p>Ontdek de vlakbij gelegen culinaire <b>Dageraadplaats</b> en de gezellige <b>Draakplaats</b>. Of trekt U er liever op uit naar de grote winkelstraten, het Rubenshuis of andere cultuurtempels en musea?</p>
+
+<p>Vanuit Baron Osy ontdekt u een <b>bruisende stad</b>: van havengebied tot modemekka. Antwerpen heeft voor elk wat wils. Een gerecht van topchef <a href="https://www.thejaneantwerp.com" target="_blank">Sergio Herman</a> proeven? In de <a href="https://www.zooantwerpen.be" target="_blank">Zoo</a> dieren observeren? Shoppen of naar het <a href="https://www.momu.be" target="_blank">Modemuseum</a> in dé modestad van België? Of naar een topvoorstelling in de Opera, de Koningin Elisabethzaal, de Singel of Stadsschouwburg? Dat alles beleeft u op een boogscheut van Baron Osy.</p>
+ 
+<p>Of verkent u liever verborgen plekjes dan de toeristische? Aan u verklappen we graag onze <b>favoriete adresjes</b>. Vraag ons gerust naar aanraders.</p>
+
+    </div>
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+
+
+<div class="content__row" id="arrangementen">
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>GASTRONOMISCH ANTWERPEN</h3>
+
+      <p>Binnenkort beschikbaar.</p>
+    </div>
+  </div>
+  <div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__clear"></div>
+</div>
+
+
+
+<div class="content__row">
+<div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>KONINCKLIJK ANTWERPEN</h3>
+
+      <ul>
+        <li>1 overnachting voor 2 personen, inclusief wifi &amp; een heerlijk ontbijt met bediening</li>
+        <li>2 toegangstickets voor een bezoek en degustatie aan de <a href="http://www.dekoninck.be/nl/brouwerijbezoek" target="_blank">Stadsbrouwerij De Koninck</a></li>
+        <li>Goody-bag met ‘lekkers uit Antwerpen’ en interessante info uit Antwerpen</li>
+      </ul>
+
+     <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>175 € / arrangement voor 2 personen in een standaardkamer</li>
+      <li>205 € / arrangement voor 2 personen in een suite (volgens beschikbaarheid en niet cumuleerbaar met andere acties)</li>
+    </ul>
+
+    </div>
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+<div class="content__row" id="arrangementen">
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>ZOO ARRANGEMENT</h3>
+
+       <ul>
+        <li>1 overnachting voor 2 personen, inclusief wifi &amp; een heerlijk ontbijt met bediening </li>
+        <li>2 toegangstickets voor een bezoek aan Antwerpse <a href="https://www.zooantwerpen.be" target="_blank">Zoo</a></li>
+        <li>Goody-bag met ‘lekkers uit Antwerpen’ en interessante info uit Antwerpen</li>
+      </ul>
+
+     <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>205 € / arrangement voor 2 personen in een standaardkamer</li>
+      <li>225 € / arrangement voor 2 personen in een suite (volgens beschikbaarheid en niet cumuleerbaar met andere acties)</li>
+    </ul>
+
+    </div>
+  </div>
+  <div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__clear"></div>
+</div>
+
+<div class="content__row">
+<div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>MODIEUS ANTWERPEN</h3>
+
+      <ul>
+        <li>1 overnachting voor 2 personen, inclusief wifi &amp; een heerlijk ontbijt met bediening</li>
+        <li>tips en tricks voor een geslaagde shop-dag, doorheen de meest modieuze straten van Antwerpen</li>
+        <li>2 toegangstickets voor het  <a href="https://www.momu.be" target="_blank">Modemuseum</a> in Antwerpen</li>
+        <li>Goody-bag met ‘lekkers uit Antwerpen’ en interessante info uit Antwerpen</li>
+      </ul>
+
+     <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>195 € / arrangement voor 2 personen in een standaardkamer</li>
+      <li>215 € / arrangement voor 2 personen in een suite (volgens beschikbaarheid en niet cumuleerbaar met andere acties)</li>
+    </ul>
+
+    </div>
+  </div>
+ 
+  <div class="content__clear"></div>
+</div>
+
+<div class="content__row" id="arrangementen">
+  <div class="content__col">
+    <div class="content__txt">
+     <h3>MUSEUM ARRANGEMENT</h3>
+
+       <ul>
+        <li>1 overnachting voor 2 personen, inclusief wifi &amp; een heerlijk ontbijt met bediening </li>
+        <li>2 toegangstickets voor een tijdelijke tentoonstelling in één van de vele musea in Antwerpen</li>
+        <li>Goody-bag met ‘lekkers uit Antwerpen’ en interessante info uit Antwerpen</li>
+      </ul>
+
+     <p class="mb-5">Prijs:</p>
+    <ul>
+      <li>210 € / arrangement voor 2 personen in een standaardkamer</li>
+      <li>235 € / arrangement voor 2 personen in een suite (volgens beschikbaarheid en niet cumuleerbaar met andere acties)</li>
+    </ul>
+
+    </div>
+  </div>
+  <div class="content__col">
+     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+  </div>
+  <div class="content__clear"></div>
+</div>
+
+
+  
+  <div class="content__row" id="geschiedenis-suites">
+  <div class="content__col">
+    <div class="content__img" style="background-image:url(img/foto-7684.jpg)"></div>
+  </div><div class="content__col">
+    <div class="content__txt">
+     <h3>Geschiedenis</h3>
+     <h4>Baron Osy</h4>
+    <p>
+        Het pand is een <b>eclectisch ensemble</b> van twee burgerhuizen, ontworpen in
+        1904 door architect François Bollekens. Het is een halfvrijstaande, vooral
+        in de hoogte uitgewerkte constructie waarbij de typische cottagestijl
+        domineert, binnen gekenmerkt door het rijk aanwezige- en zeer fijn
+        uitgewerkte houtwerk. Sedert 1984 werd het pand beschermd als <b>monument en
+            historisch erfgoed</b>.
+    </p>
+
+    <p>
+        De woning werd recent gerestaureerd en gerenoveerd, waarbij de rijkdom van
+        dit prachtige <b>belle époque herenhuis</b>, uiteraard werd gerespecteerd. Met
+        behoud van de originele decoraties: de somptueuze plafond- en muur
+        ornamenten, de marmeren schoorsteenmantels, de lambriseringen, de
+        parketvloeren, de lood-in-glas-ramen, het vele houtwerk,… wat <b>een
+            nostalgische warme sfeer</b> geeft.
+    </p>
+
+    <div class="content__hide">
+
+    <h4>Cogels-Osylei</h4>
+  
+    <p>
+        De Cogels Osylei is de centrale as en het statussymbool van de wijk
+        <b>Zurenborg</b>. De straatnaam verwijst naar de families <b>Cogels en Osy</b>, die samen
+        het grootste deel van de gronden van het huidige Zurenborg bezaten.
+    </p>
+
+    <p>
+        De indrukwekkende groepen huizen en individuele villa's, alle gebouwd
+        tussen 1894 en 1908 en vrijwel ongeschonden bewaard. Is de prestigieuze
+        kroon op het grote project dat de volledige wijk Zurenborg omvat. Deze
+        straat noemt men terecht ‘<b>de parel van Antwerpen</b>’. Vlaanderens meest
+        pronkzuchtige woonstraat is een Europese beroemdheid, die buitenlanders op
+        sightseeing zelden overslaan.
+    </p>
+
+    <p>
+        Kenmerkend voor het straatbeeld zijn de <b>monumentale, sterk versierde,
+            eclectische groepen huizen</b>, waar men de meest populaire architecten van dat
+        moment voor aansprak. Er zijn eveneens ook individuele burgerhuizen
+        aanwezig, gebouwd door particulieren. Essentieel element in de
+        Cogels-Osylei zijn de <b>voortuintjes</b>, afgeboord met identieke ijzeren hekken.
+        Het is opmerkelijk hoe gaaf het straatbeeld van de Cogels-Osylei is
+        bewaard.
+    </p>
+    <h4>
+        Zurenborg
+    </h4>
+    <p>
+        Tussen de eclectische schatten van de belle époque wijk <b>Zurenborg</b>, komt u
+        tot rust. De wijk werd tot stand gebracht door een kleine groep
+        ondernemers, verenigd in een bouwmaatschappij. Aanvankelijk was de opzet de
+        realisatie van een industriepark, maar vanaf 1886 werd gestart met de
+        massale bouw van steeds imposantere woningen.
+    </p>
+  
+    <p>
+        Ononderbroken rijgen huizen er hun fraaie gevels aan elkaar in een bizarre
+        mengeling van neostijlen: <b>classicisme, eclectisme en art nouveau</b>, romaans
+        verbroedert met pseudo-helleens, gotisch met renaissance, venetiaans
+        palazzo-stijl met cottage-look,… De wandelaar komt hier ogen te kort en
+        valt van de ene verbazing in de andere.
+    </p>
+
+    <p>
+        Hoogtepunt van de bouwactiviteiten was de periode 1892 – 1911. De villa's
+        en burgerhuizen waren bestemd voor de <b>rijke burgerij</b>, niet in het minst uit
+        het buitenland.
+    </p>
+    
+      </div>
+      <a href="#" class="button__more" data-show="Geschiedenis" data-hide="Verberg geschiedenis">Geschiedenis</a>
+      
+     </div>
+    </div>
+  <div class="content__clear"></div></div>
+  
+  <div class="content__row" id="bereikbaarheid-suites">
     <div class="content__col">
       <div class="content__txt">
        <h3>Bereikbaarheid</h3>
@@ -376,7 +801,7 @@
         <b>BARON OSY</b><br>
         Cogels-Osylei 56<br>
         2600 Antwerpen (Berchem)<br>
-        Tel:  <a href="tel:">xxxxxxxxxx</a><br>
+        Tel:  <a href="tel:">+32 (0) 499 / 202 680</a><br>
         Email: <a href="mailto:info@baron-osy.be">info@baron-osy.be</a><br>
       </p>
       <form id="contact-form-2" name="contact" method="post" novalidate="novalidate">  
@@ -411,7 +836,7 @@
         <b>BARON OSY</b><br>
         Cogels-Osylei 56<br>
         2600 Antwerpen (Berchem)<br>
-        Tel:  <a href="tel:">xxxxxxxxxx</a><br>
+        Tel:  <a href="tel:">+32 (0) 499 / 202 680</a><br>
         Email: <a href="mailto:info@baron-osy.be">info@baron-osy.be</a><br>
       </p>
       <form id="contact-form-3" name="contact" method="post" novalidate="novalidate">  
