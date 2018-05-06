@@ -390,7 +390,7 @@ Uitchecken vòòr 11u00</p>
       </div>
     </div>
     <div class="content__col">
-      <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div>
+      <div class="content__img" style="background-image:url(img/placeholder.png)"></div>
     </div>
     <div class="content__clear"></div>
 </div>
@@ -399,7 +399,7 @@ Uitchecken vòòr 11u00</p>
 
 <div class="content__row" id="sfeer">
   <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
  <div class="content__col">
     <div class="content__txt">
@@ -453,7 +453,7 @@ Uitchecken vòòr 11u00</p>
      <a href="#" class="button__more" data-show="Voorwaarden" data-hide="Verberg voorwaarden">Voorwaarden</a>
     </div>
   </div><div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
  
   <div class="content__clear"></div>
@@ -462,7 +462,7 @@ Uitchecken vòòr 11u00</p>
 
 <div class="content__row">
 <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__col">
     <div class="content__txt">
@@ -545,7 +545,7 @@ Uitchecken vòòr 11u00</p>
      <a href="#" class="button__more" data-show="Voorwaarden" data-hide="Verberg voorwaarden">Voorwaarden</a>
     </div>
   </div><div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
  
   <div class="content__clear"></div>
@@ -553,7 +553,7 @@ Uitchecken vòòr 11u00</p>
 
 <div class="content__row" id="omgeving">
 <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__col">
     <div class="content__txt">
@@ -582,7 +582,7 @@ Uitchecken vòòr 11u00</p>
     </div>
   </div>
   <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__clear"></div>
 </div>
@@ -591,7 +591,7 @@ Uitchecken vòòr 11u00</p>
 
 <div class="content__row">
 <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__col">
     <div class="content__txt">
@@ -635,14 +635,14 @@ Uitchecken vòòr 11u00</p>
     </div>
   </div>
   <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__clear"></div>
 </div>
 
 <div class="content__row">
 <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__col">
     <div class="content__txt">
@@ -687,7 +687,7 @@ Uitchecken vòòr 11u00</p>
     </div>
   </div>
   <div class="content__col">
-     <div class="content__img" style="background-image:url(http://via.placeholder.com/600x600)"></div> 
+     <div class="content__img" style="background-image:url(img/placeholder.png)"></div> 
   </div>
   <div class="content__clear"></div>
 </div>
